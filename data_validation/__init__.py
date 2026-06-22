@@ -1,0 +1,1 @@
+from .validator import Validator\n__version__ = "1.0.0"\n
